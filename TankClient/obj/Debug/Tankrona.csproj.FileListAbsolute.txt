@@ -1,0 +1,11 @@
+C:\Users\DELL\Downloads\CrazyTank-master\CrazyTank\bin\Debug\CrazyTank.exe.config
+C:\Users\DELL\Downloads\CrazyTank-master\CrazyTank\bin\Debug\CrazyTank.exe
+C:\Users\DELL\Downloads\CrazyTank-master\CrazyTank\bin\Debug\CrazyTank.pdb
+C:\Users\DELL\Downloads\CrazyTank-master\CrazyTank\obj\Debug\Tankrona.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\CrazyTank-master\CrazyTank\obj\Debug\Tankrona.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Downloads\CrazyTank-master\CrazyTank\obj\Debug\CrazyTank.FormMain.resources
+C:\Users\DELL\Downloads\CrazyTank-master\CrazyTank\obj\Debug\CrazyTank.Properties.Resources.resources
+C:\Users\DELL\Downloads\CrazyTank-master\CrazyTank\obj\Debug\Tankrona.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\CrazyTank-master\CrazyTank\obj\Debug\Tankrona.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\CrazyTank-master\CrazyTank\obj\Debug\CrazyTank.exe
+C:\Users\DELL\Downloads\CrazyTank-master\CrazyTank\obj\Debug\CrazyTank.pdb

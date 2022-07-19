@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1590f2e9-a8cc-4253-a3dd-53882c3fc764": {
+      "ProjectGuid": "1590f2e9-a8cc-4253-a3dd-53882c3fc764",
+      "DisplayName": "TankClient",
+      "ColorIndex": 0
+    },
+    "28076d9d-732a-41f9-8907-781b9fd6cccd": {
+      "ProjectGuid": "28076d9d-732a-41f9-8907-781b9fd6cccd",
+      "DisplayName": "TankServer",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
